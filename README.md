@@ -1,3 +1,3 @@
 # comfystore
 
-AAn online e-commerce furniture website
+An online e-commerce furniture website
